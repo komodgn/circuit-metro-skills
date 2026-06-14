@@ -27,6 +27,6 @@ To integrate these skills into your project:
 - `feature`: Circuit-based Screen, Presenter, and UI implementation.
 
 ## Contributing
-Contributions are welcome! Please follow the authoring spec in docs/SPEC.md to ensure consistency.
+Contributions are welcome! 
 
 _Built for modern Android development with [Circuit](https://github.com/slackhq/circuit) & [Metro](https://github.com/ZacSweers/metro)._
